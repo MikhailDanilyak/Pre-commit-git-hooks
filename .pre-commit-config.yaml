@@ -1,0 +1,5 @@
+repos:
+  - repo: https://https://github.com/MikhailDanilyak/Pre-commit-git-hooks
+    rev: master
+    hooks:
+    - id: sql_formatter

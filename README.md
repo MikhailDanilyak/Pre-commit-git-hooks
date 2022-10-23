@@ -7,3 +7,7 @@ https://verdantfox.com/blog/view/how-to-use-git-pre-commit-hooks-the-hard-way-an
 https://pre-commit.com/
 
 https://pypi.org/project/sql-formatter/
+
+### Settuping formatter
+1) pip install pre-commit
+2) pip install sql-formatter 
