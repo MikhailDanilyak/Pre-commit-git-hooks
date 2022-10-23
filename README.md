@@ -11,3 +11,4 @@ https://pypi.org/project/sql-formatter/
 ### Settuping formatter
 1) pip install pre-commit
 2) pip install sql-formatter 
+3) pip install sqlfluff
